@@ -137,13 +137,15 @@ section {
     width: 100%;
     display: flex;
     justify-content: center;
-    align-items: center;flex-direction: column;
+    align-items: center;
+    flex-direction: column;
 }
 .section-title{
     position: relative;
     color: #ce5d13;
     font-size: 38px;
     font-weight: 800;
+    margin-top: 100px;
     margin-bottom: 60px;
 }
 .section-title::before{
@@ -323,7 +325,7 @@ padding: 10px;
     transform: scale(1.2);
 }
 .aloqa{
-    margin-top: 250px;
+    margin-top: 350px;
 
 }
 .aloqa .content{
